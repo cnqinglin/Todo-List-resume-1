@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React-Todo-List/build/static/css/main.6c5f63e8.chunk.css",
-    "main.js": "/React-Todo-List/build/static/js/main.2e179bc8.chunk.js",
-    "main.js.map": "/React-Todo-List/build/static/js/main.2e179bc8.chunk.js.map",
-    "runtime-main.js": "/React-Todo-List/build/static/js/runtime-main.ba4a5614.js",
-    "runtime-main.js.map": "/React-Todo-List/build/static/js/runtime-main.ba4a5614.js.map",
-    "static/css/2.764ccc25.chunk.css": "/React-Todo-List/build/static/css/2.764ccc25.chunk.css",
-    "static/js/2.e8860c13.chunk.js": "/React-Todo-List/build/static/js/2.e8860c13.chunk.js",
-    "static/js/2.e8860c13.chunk.js.map": "/React-Todo-List/build/static/js/2.e8860c13.chunk.js.map",
-    "index.html": "/React-Todo-List/build/index.html",
-    "precache-manifest.68c00b75d95d9209ac600f334e93b5ef.js": "/React-Todo-List/build/precache-manifest.68c00b75d95d9209ac600f334e93b5ef.js",
-    "service-worker.js": "/React-Todo-List/build/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/React-Todo-List/build/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.6c5f63e8.chunk.css.map": "/React-Todo-List/build/static/css/main.6c5f63e8.chunk.css.map"
+    "main.css": "/Todo-List-resume-1/build/static/css/main.506c3f2a.chunk.css",
+    "main.js": "/Todo-List-resume-1/build/static/js/main.3877f845.chunk.js",
+    "main.js.map": "/Todo-List-resume-1/build/static/js/main.3877f845.chunk.js.map",
+    "runtime-main.js": "/Todo-List-resume-1/build/static/js/runtime-main.1cc4274f.js",
+    "runtime-main.js.map": "/Todo-List-resume-1/build/static/js/runtime-main.1cc4274f.js.map",
+    "static/css/2.764ccc25.chunk.css": "/Todo-List-resume-1/build/static/css/2.764ccc25.chunk.css",
+    "static/js/2.e8860c13.chunk.js": "/Todo-List-resume-1/build/static/js/2.e8860c13.chunk.js",
+    "static/js/2.e8860c13.chunk.js.map": "/Todo-List-resume-1/build/static/js/2.e8860c13.chunk.js.map",
+    "index.html": "/Todo-List-resume-1/build/index.html",
+    "precache-manifest.7075b757f8e8e3bc23a1705f238d34ca.js": "/Todo-List-resume-1/build/precache-manifest.7075b757f8e8e3bc23a1705f238d34ca.js",
+    "service-worker.js": "/Todo-List-resume-1/build/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/Todo-List-resume-1/build/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.506c3f2a.chunk.css.map": "/Todo-List-resume-1/build/static/css/main.506c3f2a.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba4a5614.js",
+    "static/js/runtime-main.1cc4274f.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.e8860c13.chunk.js",
-    "static/css/main.6c5f63e8.chunk.css",
-    "static/js/main.2e179bc8.chunk.js"
+    "static/css/main.506c3f2a.chunk.css",
+    "static/js/main.3877f845.chunk.js"
   ]
 }
